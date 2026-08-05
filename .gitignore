@@ -1,0 +1,14 @@
+# Dataset files (large files > 100MB)
+phishing_email_cleaned.csv
+
+# Temporary / Extraction artifacts
+page*_img_*.png
+page*_img_*.jp2
+test_reportlab.pdf
+extracted_phishing_report.txt
+
+# OS & Python artifacts
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
